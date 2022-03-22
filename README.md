@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-
+&nbsp;&nbsp;
 
 [![Ines' GitHub stats](https://github-readme-stats.vercel.app/api?username=Ineslujan&bg_color=0e1117&border_color=0e1117)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ineslujan&layout=compact&bg_color=0e1117&border_color=0e1117)](https://github.com/anuraghazra/github-readme-stats)
