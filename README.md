@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hello girls and boys 👋
+
+👩‍ Pronouns: She / Her
+
+I'm Inès, a French web developer in Javascript (REACT front-end oriented). I did the O'clock french training.
+
+I'm looking for job in these countries : Canada (British columbia, Quebec), England, Norway, Finland, US.
+
+I’m currently working on :
+- my portfolio, 
+- the [Natiassa](https://www.twitch.tv/natiassa)'s website,
+
+
+
+⚡ Fun fact : I love writing theatre and sketches, I'm vegan and I do Pilates
+
+Enjoy my profile ☺️
 
 <!--
 **Ineslujan/Ineslujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,8 +27,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 
 -->
 ### Connect with me:
 <!--
