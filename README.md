@@ -55,6 +55,10 @@ Here are some ideas to get you started:
 
 &nbsp;&nbsp;
 
-[![Ines' GitHub stats](https://github-readme-stats.vercel.app/api?username=Ineslujan&bg_color=0e1117&border_color=0e1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Ines' GitHub stats](https://github-readme-stats.vercel.app/api?username=Ineslujan)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 &nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ineslujan&layout=compact&bg_color=0e1117&border_color=0e1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Ines' GitHub stats](https://github-readme-stats.vercel.app/api?username=Ineslujan&layout=compact&bg_color=0e1117&border_color=0e1117)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ineslujan)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ineslujan&layout=compact&bg_color=0e1117&border_color=0e1117)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
