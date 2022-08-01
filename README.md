@@ -2,11 +2,11 @@
 
 👩‍ Pronouns: She / Her
 
-I'm Inès, a French web developer in Javascript (REACT front-end oriented). I did the O'clock french training.
+I'm Inès, a French Javascript web developer (REACT front-end oriented). I did the O'clock french training.
 
-I'm looking for job in these countries : Canada (British columbia, Quebec), England, US, Norway, Finland.
+I'm looking for 🔭 job in these countries : Canada (British columbia, Quebec), England, US, Norway, Finland.
 
-I’m currently working on :
+👩‍💻 I’m currently working on :
 - my portfolio, 
 - the [Natiassa](https://www.twitch.tv/natiassa)'s website,
 - the future [Isabelle Bonameau Lemordan](http://www.isabellelemordan.com/)'s website
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 
 -->
-### Connect with me:
+### 📫 Connect with me:
 <!--
 [![img_contact](./img/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://mikecodeur.com#gh-dark-mode-only)
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ines--lujan/#gh-dark-mode-only)
 
 
-### Languages and Tools:
+### 🛠 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
